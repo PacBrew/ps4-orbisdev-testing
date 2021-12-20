@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.21)
+cmake_minimum_required(VERSION 3.0)
 project(ps4_orbisdev_test)
 
 file(GLOB SOURCES source/*.cpp)
