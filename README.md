@@ -1,7 +1,7 @@
 # orbisdev toolchain testing
 
 - Install orbisdev toolchain and portlibs
-  - `sudo pacbew-pacman -S ps4-orbisdev ps4-orbisdev-pirtlibs`
+  - `sudo pacbew-pacman -S ps4-orbisdev ps4-orbisdev-portlibs`
 - Build
     - `mkdir build && cd build`
     - `source /opt/pacbrew/ps4/orbisdev/ps4vars.sh`
